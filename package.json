@@ -1,0 +1,12 @@
+{
+  "name": "Hello world",
+  "version": "1.0.0",
+  "description": "in this typescript file I have done 1st task",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Sarosh Nadeem (12687)",
+  "license": "ISC"
+}
